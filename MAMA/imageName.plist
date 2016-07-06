@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LeftSideImage</key>
+	<dict>
+		<key>乐活选中</key>
+		<string>乐活选中</string>
+		<key>书影音选中</key>
+		<string>书影音选中</string>
+		<key>娱乐圈选中</key>
+		<string>娱乐圈选中</string>
+		<key>情感选中</key>
+		<string>情感选中</string>
+		<key>育儿选中</key>
+		<string>育儿选中</string>
+		<key>美妈选中</key>
+		<string>美妈选中</string>
+	</dict>
+</dict>
+</plist>
